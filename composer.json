@@ -1,0 +1,19 @@
+{
+    "name": "diegojacober/microservices-commom",
+    "description": "Packages Files Utils Course",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Diegojacober\\MicroservicesCommom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diego Alencar Jacober",
+            "email": "diegoalencar.jacober@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
